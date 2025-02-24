@@ -15,8 +15,10 @@
 - 🌍 **Live Updates** - Stay informed with real-time news and weather reports.
 - 🔧 **Admin Tools** - Customize settings, manage permissions, and receive update notifications.
 
-## 📸 Screenshots
-![PralayBot Screenshot](https://github.com/vedantdevs/pralaybot/raw/main/screenshots/example.png)
+## 📸 Screenshot
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vedantdevs/pralaybot/main/pralaybot.png" width="70%">
+</p>
 
 ## 🛠️ Installation
 ```bash
