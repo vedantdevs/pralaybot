@@ -20,18 +20,6 @@
   <img src="https://raw.githubusercontent.com/vedantdevs/pralaybot/main/pralaybot.png" width="70%">
 </p>
 
-## 🛠️ Installation
-```bash
-# Clone the repository
-git clone https://github.com/vedantdevs/pralaybot.git
-
-# Navigate to the project directory
-cd pralaybot
-
-# Install required dependencies
-pip install -r requirements.txt
-```
-
 ## 🚀 Usage
 1. Create a `.env` file and add your **Discord Bot Token** & API keys:
    ```plaintext
